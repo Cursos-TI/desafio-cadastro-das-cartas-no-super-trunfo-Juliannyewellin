@@ -29,7 +29,7 @@ int main(){
     printf("digite a área: \n");
     scanf("%f", &area);
 
-    printf("Digite o PIB da localidade: \n");
+    printf("Escreva o PIB da localidade: \n");
     scanf("%f", &pib);
 
     printf("Digite o número de pontos turísticos: \n");
