@@ -26,7 +26,7 @@ int main(){
     printf("Digite a população: \n");
     scanf("%d", &populacao);
 
-    printf("digite a área: \n");
+    printf("escreva a área: \n");
     scanf("%f", &area);
 
     printf("Escreva o PIB da localidade: \n");
